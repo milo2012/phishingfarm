@@ -10,7 +10,7 @@ The tool rewrites all links in the webpage so that all traffic passes through th
 Upon base64 decoding, the parameter url translates to http://www.tornadoweb.org/en/branch2.1////integration.html.  
 
 
-For POST requests, the application  
+For POST requests, the application
  - logs the URL and POST data (e.g. usernames and passwords) to console, redirects the browser to the actual target website.    
   
 Example:  
