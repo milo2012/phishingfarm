@@ -1,7 +1,7 @@
 phishingfarm
 ============
 
-Phishing Farm  
+Phishing Farm <Work in Progress>  
 webserver.py is a tornado web server running at port 8000 which accepts 2 parameters.  
 The tool rewrites all links in the webpage so that all traffic passes through this 'fake' web server.  
 - uuid (unique identifier)
